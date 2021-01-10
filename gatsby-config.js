@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Edita Video - O serviço de edição de vídeos mais prático da internet`,
+    title: `Edita Video - O serviço de edição de vídeo mais prático da internet`,
     description: `Vou ajudar a editar o seu vídeo. Escolha já o seu plano e faça um orçamento`,
     author: `Bruno Bufoni`,
   },
